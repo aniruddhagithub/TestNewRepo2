@@ -1,0 +1,31 @@
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\bin\Debug\net7.0\appsettings.json
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\bin\Debug\net7.0\TesAPPfor Repo-VS.staticwebassets.runtime.json
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\bin\Debug\net7.0\TesAPPfor Repo-VS.exe
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\bin\Debug\net7.0\TesAPPfor Repo-VS.deps.json
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\bin\Debug\net7.0\TesAPPfor Repo-VS.runtimeconfig.json
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\bin\Debug\net7.0\TesAPPfor Repo-VS.dll
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\bin\Debug\net7.0\TesAPPfor Repo-VS.pdb
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\TesAPPfor Repo-VS.csproj.AssemblyReference.cache
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\TesAPPfor Repo-VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\TesAPPfor Repo-VS.AssemblyInfoInputs.cache
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\TesAPPfor Repo-VS.AssemblyInfo.cs
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\TesAPPfor Repo-VS.csproj.CoreCompileInputs.cache
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\TesAPPfor Repo-VS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\TesAPPfor Repo-VS.RazorAssemblyInfo.cache
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\TesAPPfor Repo-VS.RazorAssemblyInfo.cs
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\staticwebassets\msbuild.TesAPPfor Repo-VS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\staticwebassets\msbuild.build.TesAPPfor Repo-VS.props
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TesAPPfor Repo-VS.props
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TesAPPfor Repo-VS.props
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\scopedcss\bundle\TesAPPfor Repo-VS.styles.css
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\scopedcss\projectbundle\TesAPPfor Repo-VS.bundle.scp.css
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\TesAPPfor Repo-VS.dll
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\refint\TesAPPfor Repo-VS.dll
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\TesAPPfor Repo-VS.pdb
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\TesAPPfor Repo-VS.genruntimeconfig.cache
+C:\Users\aniru\source\repos\TesAPPfor Repo-VS\TesAPPfor Repo-VS\obj\Debug\net7.0\ref\TesAPPfor Repo-VS.dll

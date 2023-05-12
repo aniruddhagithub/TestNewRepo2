@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TesAPPfor Repo-VS.props" />
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TesAPPfor Repo-VS/1.0.0": {
+        "runtime": {
+          "TesAPPfor Repo-VS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesAPPfor Repo-VS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
